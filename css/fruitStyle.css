@@ -1,3 +1,7 @@
+body {
+  font-family: 'Helvetica Neue', 'Apple SD Gothic Neo', sans-serif;
+}
+
 table {
   width: 100%;
   text-align: center;
@@ -20,6 +24,7 @@ ul > li {
   text-indent: -30px;
   font-weight: bold;
 }
+
 ul > li:before {
   content: '-';
 }
@@ -48,5 +53,5 @@ ul {
 
 ul > li {
   margin-top: 15px;
-  font-size: 30px;
+  font-size: 20px;
 }
